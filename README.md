@@ -1,0 +1,155 @@
+Clone the repo to
+PrismLauncher/instances/
+
+https://prismlauncher.org/
+
+Should appear as a pack in prism
+
+Adding to list:
+
+-   Prefer modrinth over curseforge
+-   Confirm boots before commiting
+
+# Mod List
+
+-   AE2 QoL Recipes
+-   AE2WTLib
+-   AI\-Improvements
+-   Advanced Peripherals
+-   Almanac
+-   Animatica
+-   AppleSkin
+-   Applied Energistics 2
+-   Applied Mekanistics
+-   Architectury
+-   Ars Creo
+-   Ars Elemental
+-   Ars Nouveau
+-   Ars Nouveau's Flavors & Delight
+-   Ars Énergistique
+-   Auth Me
+-   BadOptimizations
+-   Balm
+-   Better Clouds
+-   Better Compatibility Checker
+-   BetterF3
+-   BetterGrassify
+-   Blur\+
+-   Bookshelf
+-   CC: Tweaked
+-   CIT Resewn
+-   CITResewnNeoPatcher
+-   CalcMod
+-   Capes
+-   Chat Heads
+-   Cloth Config v15 API
+-   Clumps
+-   Concurrent Chunk Management Engine
+-   Configured Defaults
+-   Connector Extras
+-   Continuity
+-   Controlling
+-   CraftPresence
+-   Crafting Tweaks
+-   Create
+-   Create Crafts & Additions
+-   Create: Dragons Plus
+-   Create: Enchantment Industry
+-   Cubes Without Borders
+-   Dynamic FPS
+-   EMI
+-   EMI Loot
+-   EnchantmentDescriptions
+-   Enhanced Block Entities
+-   Entity Model Features
+-   Entity Sound Features
+-   Entity Texture Features
+-   EntityCulling
+-   Expanded Delight
+-   Extra Mod Integrations
+-   FTB Essentials
+-   FTB Library
+-   FTB Quests
+-   FTB Teams
+-   FTB Ultimine
+-   FTBQuestsOptimizer
+-   Fabric Language Kotlin
+-   FabricSkyBoxes
+-   FabricSkyBoxes Interop
+-   FancyMenu
+-   Farmer's Delight
+-   Fast IP Ping
+-   FastQuit
+-   Ferrite Core
+-   Fix Keyboard on Linux
+-   Forgified Fabric API
+-   Fruits Delight
+-   Fzzy Config
+-   Gravestone Mod
+-   GuideME
+-   Ice And Fire Community Edition
+-   ImmediatelyFast
+-   Iris
+-   Jade
+-   Jade Addons
+-   JamLib
+-   Jupiter
+-   Konkrete
+-   Kotlin for Forge
+-   KubeJS
+-   KubeJS Mekanism
+-   LambDynamicLights
+-   Language Reload
+-   Leaves Be Gone
+-   Let Me Despawn
+-   Lithium
+-   ME Requester
+-   MacOS Input Fixes
+-   Main Menu Credits
+-   Mekanism
+-   Mekanism Covers
+-   Mekanism: Generators
+-   Mekanism: Tools
+-   Mekanistic Routers
+-   Melody
+-   MidnightLib
+-   Model Gap Fix
+-   ModernFix
+-   Modular Routers
+-   Mouse Tweaks
+-   Neat
+-   NetherPortalFix
+-   No Chat Reports
+-   No Telemetry
+-   Noisium
+-   Ok Zoomer
+-   OptiGUI
+-   Overflowing Bars
+-   Ping Wheel
+-   Polymorph
+-   Polytone
+-   PrickleMC
+-   Puzzle
+-   Puzzles Lib
+-   Reese's Sodium Options
+-   Remove Reloading Screen
+-   ResolutionControl\+\+
+-   Resourcify
+-   Rhino
+-   Right Click Harvest
+-   Searchables
+-   Sinytra Connector
+-   Sodium
+-   Sodium Dynamic Lights
+-   Sodium Extra
+-   Sodium Leaf Culling
+-   Sodium Options API
+-   ThreadTweak
+-   UniLib
+-   Uranus
+-   Vegan Delight
+-   YUNG's API
+-   YUNG's Menu Tweaks
+-   Yeetus Experimentus
+-   YetAnotherConfigLib
+-   spark

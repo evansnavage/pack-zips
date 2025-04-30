@@ -1,0 +1,12 @@
+{
+  "defaultSigningMode": "ON_DEMAND",
+  "showNCRButton": false,
+  "showReloadButton": false,
+  "verifiedIconEnabled": false,
+  "hideModifiedMessageIndicators": false,
+  "hideSigningRequestMessage": true,
+  "skipRealmsWarning": true,
+  "skipSigningWarning": true,
+  "disableTelemetry": false,
+  "removeTelemetryButton": false
+}

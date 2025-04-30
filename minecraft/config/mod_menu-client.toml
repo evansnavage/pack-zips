@@ -1,0 +1,44 @@
+mod_badges = ["achiopt=sinytra_fabric", "adaptive_tooltips=sinytra_fabric", "advancementsfullscreen=sinytra_fabric", "advancementssearch=sinytra_fabric", "aiimprovements=sinytra_forge", "alternate_current=sinytra_fabric", "animatica=sinytra_fabric", "architectury=sinytra_forge, library", "badhorsefix=sinytra_forge", "badoptimizations=sinytra_forge", "balm=sinytra_forge, library", "bettergrass=sinytra_forge", "c2me=sinytra_fabric", "chunksfadein=sinytra_fabric", "citresewn=sinytra_forge", "cloth_config=sinytra_forge, library", "concentration=sinytra_forge", "connectormod=sinytra_forge", "continuity=sinytra_forge", "cullleaves=sinytra_forge", "debugify=sinytra_fabric", "defaultoptions=sinytra_forge", "dynamic_fps=sinytra_forge", "embeddium=sinytra_forge", "embeddium_extra=sinytra_forge", "enhancedblockentities=sinytra_fabric", "entity_model_features=sinytra_forge", "entity_texture_features=sinytra_forge", "entityculling=sinytra_forge", "fabric_language_kotlin=sinytra_fabric, library", "fabricskyboxes=sinytra_fabric", "fabrishot=sinytra_fabric", "fancymenu=sinytra_forge", "faster_random=sinytra_fabric", "fastquit=sinytra_fabric", "ferritecore=sinytra_forge", "firstperson=sinytra_forge", "fog=sinytra_forge", "forgeconfigscreens=sinytra_forge", "immediatelyfast=sinytra_forge", "immersiveui=sinytra_forge", "isxander_main_menu_credits=sinytra_fabric", "konkrete=sinytra_forge, library", "kotlinforforge=sinytra_forge, library", "languagereload=sinytra_fabric", "leavemybarsalone=sinytra_forge", "melody=sinytra_forge, library", "midnightlib=sinytra_fabric, library", "mixintrace=sinytra_fabric", "mod_menu=sinytra_forge", "modelfix=sinytra_forge", "modernfix=sinytra_forge", "morechathistory=sinytra_fabric", "mru=sinytra_forge, library", "nochatreports=sinytra_forge", "noisium=sinytra_forge", "notenoughanimations=sinytra_forge", "obsidianui=sinytra_forge, library", "octolib=sinytra_forge, library", "oculus=sinytra_forge", "optigui=sinytra_fabric", "overflowingbars=sinytra_forge", "particlerain=sinytra_fabric", "polytone=sinytra_forge", "presencefootsteps=sinytra_fabric", "puzzle=sinytra_fabric", "puzzleslib=sinytra_forge, library", "radium=sinytra_forge", "raised=sinytra_forge", "resourcepackoverrides=sinytra_forge", "ryoamiclights=sinytra_forge", "skinlayers3d=sinytra_forge", "smoothscrollingrefurbished=sinytra_fabric", "smoothskies=sinytra_fabric", "sounds=sinytra_forge", "threadtweak=sinytra_fabric", "vmp=sinytra_fabric", "waveycapes=sinytra_forge", "yet_another_config_lib_v3=sinytra_forge, library", "zoomify=sinytra_fabric"]
+mod_parents = ["embeddium=embeddium_extra"]
+
+[main]
+	#Allowed Values: CLASSIC, REPLACE_REALMS, SHRINK, ICON
+	mods_button_style = "REPLACE_REALMS"
+	#Allowed Values: TITLE_SCREEN, MODS_BUTTON, TITLE_SCREEN_AND_MODS_BUTTON, NONE
+	mod_count_location = "NONE"
+	compact_list = true
+	easter_eggs = false
+	#Allowed Values: ASCENDING, DESCENDING
+	sorting = "ASCENDING"
+	#Allowed Values: REPLACE, INSERT, ICON
+	game_menu_button_style = "REPLACE"
+	random_java_colors = false
+	translate_names = true
+	translate_descriptions = true
+	quick_configure = true
+	modify_title_screen = true
+	modify_game_menu = true
+	config_mode = false
+	disable_drag_and_drop = false
+
+[hide]
+	show_libraries = true
+	hide_mod_links = true
+	hide_mod_license = true
+	hide_mod_credits = true
+	hidden_mods = ["advanced_runtime_resource_pack", "amecsapi", "cardinal-components", "com_akuleshov7_ktoml_core_jvm", "com_electronwill_night_config_core", "com_electronwill_night_config_toml", "com_github_llamalad7_mixinextras", "com_ibm_async_asyncutil", "com_moandjiezana_toml_toml4j", "conditional_mixin", "crowdin_translate", "curios", "fabric-api", "forge", "forgeconfigapiport", "fsb_interop", "io_reactivex_rxjava3_rxjava", "java", "kirin", "kuma_api", "minecraft", "mixinextras", "mixinsquared", "net_objecthunter_exp4j", "optiglue", "org_apache_commons_commons_text", "org_ini4j_ini4j", "org_jctools_jctools_core", "org_reactivestreams_reactive_streams", "org_threadly_threadly", "puzzle_base", "puzzle_gui", "puzzle_models", "puzzle_splashscreen", "puzzlesaccessapi", "reach_entity_attributes", "rubidium", "spruceui"]
+	hidden_configs = ["adaptive_tooltips", "bettergrass", "debugify", "fog", "smoothskies", "sounds", "zoomify"]
+	library_list = []
+	hide_badges = false
+	hide_config_buttons = false
+	hide_badge_buttons = true
+
+	[hide.disable_default_badges_section]
+		disable_default_badges_all = true
+		disable_default_badges = []
+
+[count]
+	count_hidden_mods = false
+	count_children = false
+	count_libraries = false
+

@@ -1,0 +1,72 @@
+{
+  "schema_version": 2,
+  "failed_reloads_per_session": 5,
+  "default_packs": [
+    "vanilla",
+    "mod_resources",
+    "fabric",
+    "continuity:default",
+    "continuity:glass_pane_culling_fix",
+    "presencefootsteps:default_sound_pack",
+    "cullleaves:smartleaves",
+    "file/Fresh Animations.zip",
+    "file/Fresh Extensions.zip",
+    "file/Fresh Moves.zip"
+  ],
+  "default_overrides": {},
+  "pack_overrides": {
+    "vanilla": {
+      "title": "\"\u00A7fDefault\"",
+      "description": "\"\u00A77The default look and feel of Minecraft\u00A7r                              \"",
+      "force_compatible": true
+    },
+    "file/Fresh Animations.zip": {
+      "title": "\"\u00A7fFresh Animations\"",
+      "description": "\"\u00A77Makes your game look like the trailers\u00A7r                              \"",
+      "force_compatible": true
+    },
+    "file/Fresh Extensions.zip": {
+      "title": "\"\u00A7fFresh Extensions\"",
+      "description": "\"\u00A77The additional features for Fresh Animations\u00A7r                              \"",
+      "force_compatible": true
+    },
+    "file/Fresh Moves.zip": {
+      "title": "\"\u00A7fFresh Moves\"",
+      "description": "\"\u00A77Animates your character via Fresh Animations\u00A7r                              \"",
+      "force_compatible": true
+    },
+    "file/Better Leaves Lite.zip": {
+      "title": "\"\u00A7fBetter Foliage Lite\"",
+      "description": "\"\u00A77Makes leaves more bushy and optimizes them\u00A7r                              \"",
+      "force_compatible": true
+    },
+    "file/Forgified Core.zip": {
+      "title": "\"\u00A7fForgified Core\"",
+      "description": "\"\u00A77Contains additional resources for the modpack\u00A7r                              \"",
+      "default_position": "TOP",
+      "force_compatible": true,
+      "fixed_position": true,
+      "required": true
+    },
+    "left_side_disabled": [
+      "programmer_art",
+      "high_contrast"
+    ],
+    "right_side_disabled": [
+      "mod_resources",
+      "fabric",
+      "continuity:default",
+      "continuity:glass_pane_culling_fix",
+      "presencefootsteps:default_sound_pack",
+      "cullleaves:smartleaves"
+    ],
+    "$$left_side_disabled": {
+      "force_compatible": true,
+      "hidden": true
+    },
+    "$$right_side_disabled": {
+      "force_compatible": true,
+      "hidden": true
+    }
+  }
+}

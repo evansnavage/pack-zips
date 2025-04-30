@@ -1,0 +1,39 @@
+
+[light_sources]
+	water_sensitive_check = true
+	block_entities = true
+	entities = true
+	self = true
+	tnt = "fancy"
+	creeper = "fancy"
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				chicken = true
+				bee = true
+				cow = true
+				chest_minecart = true
+				pig = true
+				skeleton = true
+				bat = true
+				rabbit = true
+				zombie = true
+				drowned = true
+				experience_orb = true
+				sheep = true
+				player = true
+				item = true
+				villager = true
+				zombie_villager = true
+				goat = true
+				horse = true
+				glow_squid = true
+				witch = true
+				squid = true
+				spider = true
+				creeper = true
+				enderman = true
+

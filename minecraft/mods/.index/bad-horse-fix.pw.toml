@@ -1,0 +1,16 @@
+filename = 'Bad-Horse-Fix-2.0.0-forge.jar'
+name = 'Bad Horse Fix'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7b91d3ae444c6193837abf2fcb29ea6fbcc9123364cad9b1db22abe7ea116781c5e4ae800d47d814b9c9e9aada271dc81804884f74ba6fa24d42927785d862d5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/A4pJeHgM/versions/XuTNiENi/Bad-Horse-Fix-2.0.0-forge.jar'
+
+[update.modrinth]
+mod-id = 'A4pJeHgM'
+version = 'XuTNiENi'

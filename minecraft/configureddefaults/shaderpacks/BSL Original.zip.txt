@@ -1,0 +1,10 @@
+AURORA=true
+CLOUD_HEIGHT=15.0
+FAR_VANILLA_FOG=3
+LIGHT_SHAFT=false
+SHADER_SUN_MOON=true
+SHADOW_COLOR=false
+SHADOW_FILTER=false
+UNDERGROUND_SKY=true
+shadowDistance=96.0
+shadowMapResolution=1024

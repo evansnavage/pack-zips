@@ -1,0 +1,8 @@
+{
+  "extra_settings": {
+    "show_fps": true,
+    "cloud_height": 288,
+    "recipe_toast": false,
+    "tutorial_toast": false
+  }
+}

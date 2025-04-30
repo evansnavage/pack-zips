@@ -1,0 +1,14 @@
+key_iris.keybind.reload:key.keyboard.unknown:NONE
+key_iris.keybind.shaderPackSelection:key.keyboard.y:NONE
+key_iris.keybind.toggleShaders:key.keyboard.t:NONE
+key_key.better_tooltips.horizontal_scroll_key:key.keyboard.unknown:NONE
+key_key.chat:key.keyboard.enter:NONE
+key_key.fabricskyboxes.toggle.debug_hud:key.keyboard.unknown:NONE
+key_key.fabricskyboxes.toggle:key.keyboard.unknown:NONE
+key_key.loadToolbarActivator:key.keyboard.unknown:NONE
+key_key.optigui.inspect:key.keyboard.unknown:NONE
+key_key.presencefootsteps.settings:key.keyboard.unknown:NONE
+key_key.raised.options:key.keyboard.unknown:NONE
+key_key.saveToolbarActivator:key.keyboard.unknown:NONE
+key_key.socialInteractions:key.keyboard.unknown:NONE
+key_zoomify.key.zoom.secondary:key.keyboard.unknown:NONE

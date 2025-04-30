@@ -1,0 +1,16 @@
+filename = 'Concentration-forge-1.20.1-1.1.6.jar'
+name = 'Concentration'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '32eedfb0a0ed360d216d7b64c6c457dba75b50639d76f74655c24f9d7d996cf5455bcc59f5e11f4287451f147bd2fe360aed83f54c3cee2800adbc22b86438b8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/QyvWSZ5S/versions/PPenS053/Concentration-forge-1.20.1-1.1.6.jar'
+
+[update.modrinth]
+mod-id = 'QyvWSZ5S'
+version = 'PPenS053'

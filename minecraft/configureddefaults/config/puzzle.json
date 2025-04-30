@@ -1,0 +1,17 @@
+{
+  "disabledIntegrations": [
+    "citresewn",
+    "continuity",
+    "cullleaves",
+    "entity_model_features",
+    "entity_texture_features",
+    "iris"
+  ],
+  "enablePuzzleButton": false,
+  "checkUpdates": false,
+  "showPuzzleInfo": false,
+  "backgroundColor": 1316892,
+  "progressBarColor": 16777215,
+  "progressBarBackgroundColor": 1316892,
+  "progressFrameColor": 16777215
+}

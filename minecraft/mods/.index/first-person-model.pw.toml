@@ -1,0 +1,16 @@
+filename = 'firstperson-forge-2.4.8-mc1.20.1.jar'
+name = 'First-person Model'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f2bcd626c3b634959d1dc375c9ef4df379b137a8f8f7120553e08fec87199bb1f8c690bd0395f6c1fa49d5610f1fbb58ac952dc8d75bb7fc985759c5c5113e8a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/H5XMjpHi/versions/iwodXe68/firstperson-forge-2.4.8-mc1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'H5XMjpHi'
+version = 'iwodXe68'

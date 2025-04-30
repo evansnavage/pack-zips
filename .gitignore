@@ -1,0 +1,6 @@
+minecraft/*
+!minecraft/mods
+!minecraft/config
+!minecraft/configureddefaults
+!minecraft/defaultconfigs
+!minecraft/scripts

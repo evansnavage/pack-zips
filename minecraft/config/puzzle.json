@@ -1,0 +1,22 @@
+{
+  "disabledIntegrations": [
+    "citresewn",
+    "continuity",
+    "cullleaves",
+    "entity_model_features",
+    "entity_texture_features",
+    "iris"
+  ],
+  "enablePuzzleButton": false,
+  "debugMessages": false,
+  "checkUpdates": false,
+  "showPuzzleInfo": false,
+  "resourcepackSplashScreen": true,
+  "unlimitedRotations": true,
+  "biggerModels": true,
+  "backgroundColor": -15460324,
+  "progressBarColor": -1,
+  "progressBarBackgroundColor": -15460324,
+  "progressFrameColor": -1,
+  "disableBlend": false
+}

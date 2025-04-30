@@ -1,0 +1,7 @@
+{
+  "illegalPathSupportMode": "Entity",
+  "skinFeaturesEnabled": false,
+  "skinTransparencyMode": "ALL",
+  "enableEnemyTeamPlayersSkinFeatures": false,
+  "configButtonLoc": "OFF"
+}
