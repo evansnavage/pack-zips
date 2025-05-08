@@ -14,12 +14,17 @@
 			[light_sources.settings.entities.minecraft]
 				chicken = true
 				bee = true
+				axolotl = true
 				cow = true
 				chest_minecart = true
+				tropical_fish = true
 				pig = true
+				slime = true
 				skeleton = true
+				iron_golem = true
 				bat = true
 				rabbit = true
+				cat = true
 				zombie = true
 				drowned = true
 				experience_orb = true
@@ -27,13 +32,38 @@
 				player = true
 				item = true
 				villager = true
+				salmon = true
 				zombie_villager = true
 				goat = true
 				horse = true
 				glow_squid = true
 				witch = true
+				cod = true
 				squid = true
 				spider = true
 				creeper = true
 				enderman = true
+
+			[light_sources.settings.entities.tconstruct]
+				sky_slime = true
+
+			[light_sources.settings.entities.ars_nouveau]
+				starbuncle = true
+				gift_starby = true
+				drygmy = true
+				whirlisprig = true
+
+			[light_sources.settings.entities.thermal]
+				blitz = true
+				basalz = true
+
+			[light_sources.settings.entities.lootr]
+				lootr_minecart = true
+
+			[light_sources.settings.entities.iceandfire]
+				ice_dragon = true
+				hippocampus = true
+				gorgon = true
+				troll = true
+				dragon_multipart = true
 

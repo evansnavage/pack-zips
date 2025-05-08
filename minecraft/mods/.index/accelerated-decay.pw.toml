@@ -1,0 +1,16 @@
+filename = 'accelerated-decay-forge-3.0.1+mc1.20.1.jar'
+name = 'Accelerated Decay'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b694ce8002e27db9f93bb6051124e46371a1ac8c4f52358e3c58792141e80033d23cf7ca53ffcc71f82bd8a4a7f052f72e27d11cb33f7a164fd6ce8e05db6e9d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/laX5CckD/versions/z90zP9qg/accelerated-decay-forge-3.0.1%2Bmc1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'laX5CckD'
+version = 'z90zP9qg'

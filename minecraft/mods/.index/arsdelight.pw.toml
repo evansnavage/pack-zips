@@ -1,0 +1,16 @@
+filename = 'arsdelight-1.1.5.jar'
+name = "Ars Nouveau's Flavors & Delight"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ba08195de4d7a4007a6eb881eee768399a7cc96741789ddd7f6b117be8e449af5487e3a93238a90650ce8ec495fc274fe3801b429922a5f198673f267c02b2be'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/BwbT0OZE/versions/PE7Wu65k/arsdelight-1.1.5.jar'
+
+[update.modrinth]
+mod-id = 'BwbT0OZE'
+version = 'PE7Wu65k'

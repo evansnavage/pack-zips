@@ -1,0 +1,16 @@
+filename = 'tleveling-0.2.2-1.20.1.jar'
+name = 'Tinkers Tool Leveling 2'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'alpha'
+
+[download]
+hash = 'a0efc8c015e1c0a2eb57b217f6af4fd5f7b574b73e848c21b0b0b7b8af341484e45bff9ad7ecad5eccdfafd93c3f0b27ea9ecefbb6767db0adf9bad4d49c4942'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Tt9OkMjz/versions/27EoO4U9/tleveling-0.2.2-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'Tt9OkMjz'
+version = '27EoO4U9'

@@ -1,0 +1,16 @@
+filename = 'rechiseledae2-neoforge-1.20.1-1.0.0.jar'
+name = 'Rechiseled: AE2'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '3248874635cd7a2730773ba0f2fbf034deb182d7d58b24b38d5d12127b8452c7ebed6cb44387b631020273e866b9f5baa52b2a2aa734eb5c07bf3f0920fae83b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/sDBUwZVY/versions/sQW24EcQ/rechiseledae2-neoforge-1.20.1-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'sDBUwZVY'
+version = 'sQW24EcQ'
