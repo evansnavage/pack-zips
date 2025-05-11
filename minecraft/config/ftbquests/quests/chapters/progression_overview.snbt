@@ -1,0 +1,316 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "progression_overview"
+	group: ""
+	id: "4BF47298B28165BA"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "247517E44923F485"
+			tasks: [{
+				id: "66986A13563D2F2A"
+				item: "create:gearbox"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 1.5d
+		}
+		{
+			id: "750BA268A62BA67E"
+			tasks: [{
+				id: "6389B2D707E9CA37"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						Parent: {
+							Items: [ ]
+							Size: 23
+						}
+					}
+					id: "immersiveengineering:toolbox"
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: 6.0d
+		}
+		{
+			id: "0374601D30FE252D"
+			tasks: [{
+				id: "14B4D580A69671C3"
+				item: "pneumaticcraft:air_compressor"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 3.0d
+		}
+		{
+			id: "221788167BDA8D6D"
+			tasks: [{
+				id: "2BE16CD91B18B4F4"
+				item: "ae2:controller"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 6.0d
+		}
+		{
+			id: "34460ABF20EB4939"
+			tasks: [{
+				id: "36B4D19C953211F5"
+				item: "botania:creative_pool"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 9.0d
+		}
+		{
+			id: "19389718240B46C8"
+			tasks: [{
+				id: "7E5C1BBE4A226ED7"
+				item: "mekanismgenerators:wind_generator"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 15.0d
+		}
+		{
+			id: "7D1776ADC5D85B98"
+			tasks: [{
+				id: "6C97B27EF8DEBC9D"
+				item: "thermal:dynamo_stirling"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 9.0d
+		}
+		{
+			id: "61BFFB50603C6728"
+			tasks: [{
+				id: "70A05346B4F35710"
+				item: {
+					Count: 1
+					id: "tconstruct:pickaxe"
+					tag: {
+						Damage: 0
+						tic_broken: 0b
+						tic_materials: [
+							"tconstruct:cobalt"
+							"tconstruct:cobalt"
+							"tconstruct:cobalt"
+						]
+						tic_modifiers: [
+							{
+								level: 3
+								name: "tconstruct:lightweight"
+							}
+							{
+								level: 1
+								name: "tconstruct:pierce"
+							}
+						]
+						tic_persistent: { }
+						tic_stats: {
+							"tconstruct:attack_damage": 3.25f
+							"tconstruct:attack_speed": 1.5246f
+							"tconstruct:draw_speed": 1.09f
+							"tconstruct:durability": 839.99994f
+							"tconstruct:harvest_tier": "minecraft:diamond"
+							"tconstruct:mining_speed": 8.25825f
+							"tconstruct:velocity": 1.09f
+						}
+						tic_volatile_data: {
+							abilities: 1
+							upgrades: 3
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: 1.5d
+		}
+		{
+			id: "00D84ED413E3BFAE"
+			tasks: [{
+				id: "5CBCE1106BF30718"
+				item: "draconicevolution:awakened_crafting_injector"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 15.0d
+		}
+		{
+			id: "27C0E8EEC5A74BEE"
+			tasks: [{
+				id: "44055424FF5FEFE2"
+				item: "powah:energizing_rod_starter"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 12.0d
+		}
+		{
+			id: "7E83F5A55D6EB4F9"
+			tasks: [{
+				id: "69842EAF94A3F8DD"
+				item: "ars_nouveau:novice_spell_book"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 6.0d
+		}
+		{
+			id: "05CF8607B040EB0D"
+			tasks: [{
+				id: "6460BC233F449327"
+				item: "bloodmagic:weakbloodorb"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 12.0d
+		}
+		{
+			id: "32580E702C6B2FEA"
+			tasks: [{
+				id: "3439DB8EED3EEA5D"
+				item: {
+					Count: 1
+					id: "occultism:miner_djinni_ores"
+					tag: {
+						Damage: 0
+						maxMiningTime: 300
+						rollsPerOperation: 1
+						spiritName: "Morwynned"
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 12.0d
+		}
+		{
+			id: "744680B7BE80D3BB"
+			tasks: [{
+				id: "1FB4EFB89696BFDF"
+				item: "naturesaura:gold_leaf"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			id: "3F678C0B1D178AEE"
+			tasks: [{
+				id: "022BEFD8A6F4689D"
+				item: "enchanted:diamond_vapour"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 9.0d
+		}
+		{
+			id: "15C5E9E35FE15216"
+			tasks: [{
+				id: "3083888E067AE315"
+				item: "createaddition:electric_motor"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 3.0d
+		}
+		{
+			id: "7F8AD9C6FA748533"
+			tasks: [{
+				id: "26D536A6634E3E86"
+				item: "theurgy:sal_ammoniac_crystal"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 15.0d
+		}
+		{
+			id: "33B6514C81B75A2F"
+			tasks: [{
+				id: "15BDBB65A0583A12"
+				item: "ad_astra:moon_globe"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 4.5d
+		}
+		{
+			id: "33A6EC9523048FAA"
+			tasks: [{
+				id: "4A1C67399385D1A7"
+				item: "ae2:blank_pattern"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 12.0d
+		}
+		{
+			id: "444132788B8D1708"
+			tasks: [{
+				id: "459EDE7DDC35BAD1"
+				item: "ad_astra:mars_globe"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 7.5d
+		}
+		{
+			id: "14D90475F5A16B55"
+			tasks: [{
+				id: "28A8A74B09B381F0"
+				item: "industrialforegoing:machine_frame_simple"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 12.0d
+		}
+		{
+			id: "7B3B8EB919E8D482"
+			tasks: [{
+				id: "5D8798BC0F990D9D"
+				item: "ad_astra:mercury_globe"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 10.5d
+		}
+		{
+			id: "2F43CC4A7CED3625"
+			tasks: [{
+				id: "3FFBF5280E1DAC17"
+				item: "ad_astra:venus_globe"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 10.5d
+		}
+		{
+			id: "77AC5E0A9C94720D"
+			tasks: [{
+				id: "0EC658E13295B715"
+				item: "ad_astra:glacio_globe"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 13.5d
+		}
+		{
+			id: "57EC3BFC4BEC5DFF"
+			tasks: [{
+				id: "3F0096A8DD48A92F"
+				item: "ad_astra:earth_globe"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+	]
+	title: "Progression Overview"
+}

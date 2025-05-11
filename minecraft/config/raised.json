@@ -3,8 +3,8 @@
     "hotbar": {
       "x": 0,
       "y": 2,
-      "position": "BOTTOM",
-      "sync": "NONE"
+      "position": "BOTTOM_LEFT",
+      "sync": "CHAT"
     },
     "chat": {
       "x": 0,

@@ -1,0 +1,16 @@
+filename = 'GeOre-1.20.1-2.4.2.jar'
+name = 'GeOre'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '6538d758b8820f06f740cecc45c5057997ab53de42c3250da4e9e1246022b54dbbb1f855155e5318abbbc8f2ec4bdcda9027046ca034c7ccea0a0551233d322c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Xw6zG9hl/versions/uHBo3TKJ/GeOre-1.20.1-2.4.2.jar'
+
+[update.modrinth]
+mod-id = 'Xw6zG9hl'
+version = 'uHBo3TKJ'

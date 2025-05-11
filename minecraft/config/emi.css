@@ -182,7 +182,7 @@
 	/**
 	 * How much space to maintain between the left sidebar and obstructions, in pixels
 	 */
-	left-sidebar-margins: 2, 2, 2, 2;
+	left-sidebar-margins: 50, 2, 2, 2;
 
 	/**
 	 * Where to position the left sidebar
@@ -212,7 +212,7 @@
 	/**
 	 * How many columns and rows of ingredients to limit the right sidebar to
 	 */
-	right-sidebar-size: 12, 100;
+	right-sidebar-size: 22, 100;
 
 	/**
 	 * How much space to maintain between the right sidebar and obstructions, in pixels

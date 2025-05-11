@@ -1,0 +1,16 @@
+filename = 'create_compatible_storage-2.0.0.jar'
+name = 'Create: Compatible Storage'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '8fb037d5a1916ec697f25435acff5546c059af0629ab922316ccf0afd6d0435d9c66560b45ed7a0a9334032c9034f903cf455a63e477806c171685c6468a0509'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/5ofroZ5W/versions/20V2lqqt/create_compatible_storage-2.0.0.jar'
+
+[update.modrinth]
+mod-id = '5ofroZ5W'
+version = '20V2lqqt'

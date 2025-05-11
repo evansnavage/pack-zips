@@ -4,8 +4,6 @@
 	block_entities = true
 	entities = true
 	self = true
-	tnt = "fancy"
-	creeper = "fancy"
 
 	[light_sources.settings]
 
@@ -13,11 +11,12 @@
 
 			[light_sources.settings.entities.minecraft]
 				chicken = true
-				bee = true
 				axolotl = true
+				bee = true
+				donkey = true
 				cow = true
-				chest_minecart = true
 				tropical_fish = true
+				fox = true
 				pig = true
 				slime = true
 				skeleton = true
@@ -27,29 +26,60 @@
 				cat = true
 				zombie = true
 				drowned = true
-				experience_orb = true
 				sheep = true
 				player = true
+				dolphin = true
+				pufferfish = true
 				item = true
+				turtle = true
 				villager = true
+				wolf = true
 				salmon = true
 				zombie_villager = true
-				goat = true
 				horse = true
 				glow_squid = true
-				witch = true
 				cod = true
+				witch = true
 				squid = true
 				spider = true
+				parrot = true
 				creeper = true
 				enderman = true
 
 			[light_sources.settings.entities.tconstruct]
 				sky_slime = true
 
+			[light_sources.settings.entities.mekanismadditions]
+				baby_enderman = true
+				baby_skeleton = true
+				baby_creeper = true
+
+			[light_sources.settings.entities.lootr]
+				lootr_minecart = true
+
+			[light_sources.settings.entities.iceandfire]
+				cockatrice = true
+				lightning_dragon = true
+				hippocampus = true
+				gorgon = true
+				troll = true
+				fire_dragon = true
+				cylcops_multipart = true
+				ice_dragon = true
+				deathworm = true
+				multipart = true
+				dragon_multipart = true
+				cyclops = true
+				stone_statue = true
+				amphithere = true
+
+			[light_sources.settings.entities.productivebees]
+				yellow_black_carpenter_bee = true
+				green_carpenter_bee = true
+
 			[light_sources.settings.entities.ars_nouveau]
+				wilden_hunter = true
 				starbuncle = true
-				gift_starby = true
 				drygmy = true
 				whirlisprig = true
 
@@ -57,13 +87,24 @@
 				blitz = true
 				basalz = true
 
-			[light_sources.settings.entities.lootr]
-				lootr_minecart = true
+			[light_sources.settings.entities.quark]
+				forgotten = true
+				toretoise = true
+				stoneling = true
+				crab = true
 
-			[light_sources.settings.entities.iceandfire]
-				ice_dragon = true
-				hippocampus = true
-				gorgon = true
-				troll = true
-				dragon_multipart = true
+			[light_sources.settings.entities.artifacts]
+				mimic = true
+
+			[light_sources.settings.entities.ad_astra]
+				tier_3_rocket = true
+				tier_1_rocket = true
+				tier_2_rocket = true
+				tier_4_rocket = true
+				star_crawler = true
+				lander = true
+				glacian_ram = true
+
+			[light_sources.settings.entities.ars_elemental]
+				siren_entity = true
 
