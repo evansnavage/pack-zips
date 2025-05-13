@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "wait_he_has_natural_aura"
+	group: "401CB9A948ED93A6"
+	id: "5FC04131CA4B0CA0"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+	title: "Wait he has natural aura"
+}

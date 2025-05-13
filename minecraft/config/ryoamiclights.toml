@@ -10,44 +10,66 @@
 		[light_sources.settings.entities]
 
 			[light_sources.settings.entities.minecraft]
-				chicken = true
+				panda = true
 				axolotl = true
 				bee = true
-				donkey = true
 				cow = true
-				tropical_fish = true
-				fox = true
+				magma_cube = true
 				pig = true
-				slime = true
 				skeleton = true
-				iron_golem = true
+				llama = true
 				bat = true
+				frog = true
+				camel = true
 				rabbit = true
-				cat = true
-				zombie = true
 				drowned = true
-				sheep = true
-				player = true
+				experience_orb = true
 				dolphin = true
-				pufferfish = true
 				item = true
 				turtle = true
-				villager = true
-				wolf = true
 				salmon = true
-				zombie_villager = true
+				wandering_trader = true
+				item_frame = true
 				horse = true
+				phantom = true
 				glow_squid = true
-				cod = true
-				witch = true
 				squid = true
-				spider = true
 				parrot = true
 				creeper = true
+				lightning_bolt = true
 				enderman = true
+				chicken = true
+				trader_llama = true
+				donkey = true
+				fox = true
+				tropical_fish = true
+				slime = true
+				pillager = true
+				iron_golem = true
+				cat = true
+				zombie = true
+				sheep = true
+				player = true
+				pufferfish = true
+				villager = true
+				wolf = true
+				zombie_villager = true
+				tnt_minecart = true
+				elder_guardian = true
+				cave_spider = true
+				cod = true
+				witch = true
+				spider = true
 
 			[light_sources.settings.entities.tconstruct]
 				sky_slime = true
+
+			[light_sources.settings.entities.hexerei]
+				broom = true
+				crow = true
+
+			[light_sources.settings.entities.naturesaura]
+				light_projectile = true
 
 			[light_sources.settings.entities.mekanismadditions]
 				baby_enderman = true
@@ -60,34 +82,54 @@
 			[light_sources.settings.entities.iceandfire]
 				cockatrice = true
 				lightning_dragon = true
+				siren = true
 				hippocampus = true
 				gorgon = true
 				troll = true
 				fire_dragon = true
 				cylcops_multipart = true
 				ice_dragon = true
+				ghost = true
 				deathworm = true
 				multipart = true
 				dragon_multipart = true
 				cyclops = true
 				stone_statue = true
 				amphithere = true
+				sea_serpent = true
+
+			[light_sources.settings.entities.occultism]
+				dragon_familiar = true
 
 			[light_sources.settings.entities.productivebees]
+				blue_banded_bee = true
 				yellow_black_carpenter_bee = true
+				ashy_mining_bee = true
+				mason_bee = true
+				reed_bee = true
+				chocolate_mining_bee = true
+				bumble_bee = true
 				green_carpenter_bee = true
+				digger_bee = true
+				neon_cuckoo_bee = true
+				configurable_bee = true
 
 			[light_sources.settings.entities.ars_nouveau]
 				wilden_hunter = true
 				starbuncle = true
+				gift_starby = true
 				drygmy = true
 				whirlisprig = true
+
+			[light_sources.settings.entities.enchanted]
+				broomstick = true
 
 			[light_sources.settings.entities.thermal]
 				blitz = true
 				basalz = true
 
 			[light_sources.settings.entities.quark]
+				shiba = true
 				forgotten = true
 				toretoise = true
 				stoneling = true
@@ -97,13 +139,19 @@
 				mimic = true
 
 			[light_sources.settings.entities.ad_astra]
-				tier_3_rocket = true
-				tier_1_rocket = true
-				tier_2_rocket = true
 				tier_4_rocket = true
 				star_crawler = true
 				lander = true
+				zombified_pygro = true
+				tier_3_rocket = true
+				tier_1_rocket = true
+				tier_2_rocket = true
+				martian_raptor = true
+				mogler = true
+				lunarian = true
+				pygro = true
 				glacian_ram = true
+				lunarian_wandering_trader = true
 
 			[light_sources.settings.entities.ars_elemental]
 				siren_entity = true

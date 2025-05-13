@@ -21,4 +21,55 @@ T4: Glacio
 
 There are ad astra extensions that add more planets to proxima centauri; they are ass!
 
+Overworld Mods Resource Requirements:
+Zinc
+Copper
+Iron
+Gold (Only from naura trees?)
+Diamond
+Nether brick
+Redstone
+
+Tier 1:
+Do Create Stuff
+Get Gold
+Steady Supply of Iron, Diamonds, Gold, Etc.
+Power
+Ingot of the Sky (Spaceship asf)
+Electrum
+Bio-Diesel
+
+Moon:
+*Desh*
+Traders
+Moon is super rich in some resources (Aluminum? Iron? Titanium?)
+
+Tier 2:
+*Desh* from the moon
+Pneumatic Stuff
+Rocket Fuel
+PCBs
+Ars stuff
+Enchanted *titanium*
+Occultism Stuff
+Iesnium
+
+Mars:
+*Ostrum*
+
+Tier 3:
+Botania
+Thermal
+Enchanted
+Powah
+
+Energize some alloy involving Terrasteel
+
+
+Venus and Mercury:
+Calorite
+Mercury got hella iron
+
+Bookoo bucks??
+
 ![E2E Gates Page](image.png)

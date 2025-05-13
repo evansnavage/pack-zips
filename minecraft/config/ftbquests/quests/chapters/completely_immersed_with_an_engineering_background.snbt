@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "completely_immersed_with_an_engineering_background"
+	group: "401CB9A948ED93A6"
+	id: "7B15D5FFDDF5132B"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+	title: "Completely Immersed with an Engineering Background"
+}

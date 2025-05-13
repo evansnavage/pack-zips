@@ -1,0 +1,456 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "create_basics"
+	group: "401CB9A948ED93A6"
+	id: "53FF4CE49BFC07C3"
+	images: [{
+		height: 1.0d
+		image: "fancymenu:textures/warning_framed_24x24.png"
+		rotation: 0.0d
+		width: 1.0d
+		x: 3.5d
+		y: 2.0d
+	}]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "1A906443005EB66F"
+			tasks: [{
+				id: "2C01459084AC329F"
+				item: "create:andesite_alloy"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["39CCAE6F51B10B46"]
+			id: "5C3177EBBB94A60F"
+			tasks: [{
+				id: "479F6B08ADE4B1D8"
+				item: "create:mechanical_mixer"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependencies: [
+				"1A906443005EB66F"
+				"22A6414828D8AFC2"
+			]
+			id: "39CCAE6F51B10B46"
+			tasks: [{
+				id: "7E317A95F9DFB0FE"
+				item: "create:mechanical_press"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"5C3177EBBB94A60F"
+				"5A5DEDC138F95FFC"
+			]
+			id: "1383F94CF5848AC4"
+			tasks: [{
+				id: "4DD30B1B79545A67"
+				item: "create:brass_ingot"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["1A906443005EB66F"]
+			id: "22A6414828D8AFC2"
+			tasks: [{
+				id: "45369DBB4F04F01D"
+				item: "create:water_wheel"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["1383F94CF5848AC4"]
+			id: "7B12CD002D8C3223"
+			tasks: [{
+				id: "477115992D167E8C"
+				item: "create:mechanical_crafter"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["7B12CD002D8C3223"]
+			id: "119C7DC982653E9B"
+			tasks: [{
+				id: "758FCE4D94EE22E9"
+				item: "createaddition:alternator"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 10.5d
+		}
+		{
+			dependencies: ["20FDEA989FF1A266"]
+			id: "1076C714C95B74CB"
+			tasks: [{
+				id: "1FA10C69F485D6BB"
+				item: "immersiveengineering:blastbrick"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 12.0d
+		}
+		{
+			dependencies: ["20FDEA989FF1A266"]
+			id: "7DF2FFBC32C36493"
+			tasks: [{
+				id: "141BFD9168CBF067"
+				item: "immersiveengineering:cokebrick"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 12.0d
+		}
+		{
+			dependencies: ["5C3177EBBB94A60F"]
+			id: "504C44DEC33D7214"
+			tasks: [{
+				id: "1AAF2E8D04E5FF55"
+				item: "tconstruct:grout"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["7B12CD002D8C3223"]
+			id: "20FDEA989FF1A266"
+			tasks: [{
+				id: "52A70B155696DA73"
+				item: "create:crushing_wheel"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 10.5d
+		}
+		{
+			dependencies: [
+				"1076C714C95B74CB"
+				"7DF2FFBC32C36493"
+			]
+			id: "327FDCF6A3579C41"
+			tasks: [{
+				id: "4C9A148BB61FBC5E"
+				item: "mekanism:ingot_steel"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 13.5d
+		}
+		{
+			dependencies: ["7B12CD002D8C3223"]
+			id: "0DD4398ABF6D3B05"
+			tasks: [{
+				id: "58FF34EB3972FAD4"
+				item: "createaddition:electric_motor"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 10.5d
+		}
+		{
+			dependencies: [
+				"1D172A17E1BB9AE1"
+				"327FDCF6A3579C41"
+				"0725F3F4D1674444"
+				"41EE969E5668BD1F"
+			]
+			id: "7EEEC094564694C5"
+			tasks: [{
+				id: "730F0B45A6329433"
+				item: "createoreexcavation:drilling_machine"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 16.5d
+		}
+		{
+			dependencies: ["3A4D69ECE93C7FFB"]
+			id: "1D172A17E1BB9AE1"
+			tasks: [{
+				id: "5CF9ECBCBFBD3E96"
+				item: "minecraft:gold_ingot"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 13.5d
+		}
+		{
+			dependencies: ["53D27FEF7A63CBEE"]
+			id: "3A4D69ECE93C7FFB"
+			tasks: [{
+				id: "0F4E2757FB400F73"
+				item: "naturesaura:gold_leaf"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 9.0d
+		}
+		{
+			dependencies: ["5C3177EBBB94A60F"]
+			id: "53D27FEF7A63CBEE"
+			tasks: [{
+				id: "5E53168BCAC94B51"
+				item: "naturesaura:gold_fiber"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["345B28B6992E4784"]
+			id: "5A5DEDC138F95FFC"
+			tasks: [{
+				id: "576283E01703FA8B"
+				item: "create:blaze_burner"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 7.5d
+		}
+		{
+			id: "345B28B6992E4784"
+			tasks: [{
+				id: "5AC8A968061F747D"
+				item: "ars_nouveau:novice_spell_book"
+				type: "item"
+			}]
+			title: "Some degree of ars activities"
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["119C7DC982653E9B"]
+			id: "5B4E7F58495C894D"
+			tasks: [{
+				id: "5D3B4A518DA510F3"
+				item: "createaddition:tesla_coil"
+				type: "item"
+			}]
+			x: -5.0d
+			y: 18.5d
+		}
+		{
+			dependencies: ["1383F94CF5848AC4"]
+			id: "7AAB44DEA0D9FFAA"
+			tasks: [{
+				id: "3ED4B6ED754FDD19"
+				item: "create:deployer"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["7AAB44DEA0D9FFAA"]
+			id: "0725F3F4D1674444"
+			tasks: [{
+				id: "50B181FF94C17F09"
+				item: "create:precision_mechanism"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 13.5d
+		}
+		{
+			dependencies: ["7AAB44DEA0D9FFAA"]
+			id: "41EE969E5668BD1F"
+			tasks: [{
+				id: "7AC524550A465779"
+				item: "create:sturdy_sheet"
+				type: "item"
+			}]
+			x: -5.0d
+			y: 13.5d
+		}
+		{
+			dependencies: ["41EE969E5668BD1F"]
+			id: "1C3E1CECEF4081B8"
+			tasks: [{
+				id: "3BFE02FD1350984A"
+				item: "create:railway_casing"
+				type: "item"
+			}]
+			x: -5.0d
+			y: 15.0d
+		}
+		{
+			id: "1EE9CB892DE64BD0"
+			tasks: [{
+				id: "726DE6EA6F2BBC47"
+				item: "naturesaura:sky_ingot"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 18.5d
+		}
+		{
+			dependencies: ["7EEEC094564694C5"]
+			id: "0E64E514936B9076"
+			tasks: [{
+				id: "07BFCAE734A09826"
+				item: "immersiveengineering:ingot_aluminum"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 18.5d
+		}
+		{
+			dependencies: [
+				"5B4E7F58495C894D"
+				"0E64E514936B9076"
+				"1EE9CB892DE64BD0"
+			]
+			id: "1A9999286A5D2CC2"
+			tasks: [{
+				id: "3FC610F61FAEC988"
+				title: "Non-descript custom ingot"
+				type: "custom"
+			}]
+			x: -0.5d
+			y: 21.5d
+		}
+		{
+			dependencies: ["1A9999286A5D2CC2"]
+			id: "758B8B3F37E1FF35"
+			tasks: [{
+				id: "5C6E5B115CC9E972"
+				item: {
+					Count: 1
+					id: "ad_astra:tier_1_rocket"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -5.0d
+			y: 24.0d
+		}
+		{
+			dependencies: [
+				"758B8B3F37E1FF35"
+				"2596CF39D6539B33"
+			]
+			id: "2A8C1010B9503CC3"
+			tasks: [{
+				dimension: "ad_astra:moon"
+				icon: "ad_astra:moon_globe"
+				id: "113F2E4FC4D2F5D5"
+				title: "Made of Cheese?"
+				type: "dimension"
+			}]
+			x: 1.0d
+			y: 28.5d
+		}
+		{
+			dependencies: ["1A9999286A5D2CC2"]
+			id: "54AFD6288085C8B3"
+			tasks: [
+				{
+					id: "40CCABC6F050BC72"
+					item: {
+						Count: 1
+						id: "ad_astra:space_suit"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1B64B9DE534081D0"
+					item: {
+						Count: 1
+						id: "ad_astra:space_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0220AF8B7A139261"
+					item: {
+						Count: 1
+						id: "ad_astra:space_pants"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0337904237288EA6"
+					item: {
+						Count: 1
+						id: "ad_astra:space_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 24.0d
+		}
+		{
+			dependencies: ["4ADC409EE077110E"]
+			id: "2596CF39D6539B33"
+			tasks: [{
+				id: "2B539EC5E5DB0C20"
+				item: "ad_astra:fuel_bucket"
+				type: "item"
+			}]
+			x: 6.5d
+			y: 24.0d
+		}
+		{
+			dependencies: ["492EDA7FF79D1DB1"]
+			id: "4ADC409EE077110E"
+			tasks: [{
+				id: "1538A525211ADD56"
+				item: "immersiveengineering:biodiesel_bucket"
+				type: "item"
+			}]
+			x: 6.5d
+			y: 21.5d
+		}
+		{
+			dependencies: ["0E64E514936B9076"]
+			id: "492EDA7FF79D1DB1"
+			tasks: [
+				{
+					id: "64BD01BF6E8DD9C6"
+					item: "immersiveengineering:light_engineering"
+					type: "item"
+				}
+				{
+					id: "78D98CECDBE423B5"
+					item: "immersiveengineering:heavy_engineering"
+					type: "item"
+				}
+			]
+			x: 6.5d
+			y: 18.5d
+		}
+	]
+	title: "You can Create*tm Anything"
+}

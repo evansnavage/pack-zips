@@ -14,8 +14,8 @@
 				item: "create:gearbox"
 				type: "item"
 			}]
-			x: -0.5d
-			y: 1.5d
+			x: 0.5d
+			y: 3.5d
 		}
 		{
 			id: "750BA268A62BA67E"
@@ -33,8 +33,8 @@
 				}
 				type: "item"
 			}]
-			x: -1.5d
-			y: 6.0d
+			x: 0.5d
+			y: 5.0d
 		}
 		{
 			id: "0374601D30FE252D"
@@ -43,8 +43,8 @@
 				item: "pneumaticcraft:air_compressor"
 				type: "item"
 			}]
-			x: -0.5d
-			y: 3.0d
+			x: -1.0d
+			y: 9.5d
 		}
 		{
 			id: "221788167BDA8D6D"
@@ -53,8 +53,8 @@
 				item: "ae2:controller"
 				type: "item"
 			}]
-			x: -2.5d
-			y: 6.0d
+			x: 0.5d
+			y: 11.5d
 		}
 		{
 			id: "34460ABF20EB4939"
@@ -63,8 +63,8 @@
 				item: "botania:creative_pool"
 				type: "item"
 			}]
-			x: -0.5d
-			y: 9.0d
+			x: -2.0d
+			y: 9.5d
 		}
 		{
 			id: "19389718240B46C8"
@@ -74,7 +74,7 @@
 				type: "item"
 			}]
 			x: -1.5d
-			y: 15.0d
+			y: 17.5d
 		}
 		{
 			id: "7D1776ADC5D85B98"
@@ -83,8 +83,8 @@
 				item: "thermal:dynamo_stirling"
 				type: "item"
 			}]
-			x: -2.5d
-			y: 9.0d
+			x: 0.0d
+			y: 9.5d
 		}
 		{
 			id: "61BFFB50603C6728"
@@ -129,8 +129,8 @@
 				}
 				type: "item"
 			}]
-			x: -2.5d
-			y: 1.5d
+			x: -3.0d
+			y: 2.0d
 		}
 		{
 			id: "00D84ED413E3BFAE"
@@ -139,8 +139,8 @@
 				item: "draconicevolution:awakened_crafting_injector"
 				type: "item"
 			}]
-			x: -0.5d
-			y: 15.0d
+			x: -1.5d
+			y: 20.5d
 		}
 		{
 			id: "27C0E8EEC5A74BEE"
@@ -149,8 +149,8 @@
 				item: "powah:energizing_rod_starter"
 				type: "item"
 			}]
-			x: -3.5d
-			y: 12.0d
+			x: -1.5d
+			y: 13.5d
 		}
 		{
 			id: "7E83F5A55D6EB4F9"
@@ -159,8 +159,8 @@
 				item: "ars_nouveau:novice_spell_book"
 				type: "item"
 			}]
-			x: -0.5d
-			y: 6.0d
+			x: -3.5d
+			y: 5.0d
 		}
 		{
 			id: "05CF8607B040EB0D"
@@ -170,7 +170,7 @@
 				type: "item"
 			}]
 			x: -2.5d
-			y: 12.0d
+			y: 15.5d
 		}
 		{
 			id: "32580E702C6B2FEA"
@@ -188,8 +188,8 @@
 				}
 				type: "item"
 			}]
-			x: 0.5d
-			y: 12.0d
+			x: -3.0d
+			y: 9.5d
 		}
 		{
 			id: "744680B7BE80D3BB"
@@ -198,18 +198,8 @@
 				item: "naturesaura:gold_leaf"
 				type: "item"
 			}]
-			x: -1.5d
-			y: 3.0d
-		}
-		{
-			id: "3F678C0B1D178AEE"
-			tasks: [{
-				id: "022BEFD8A6F4689D"
-				item: "enchanted:diamond_vapour"
-				type: "item"
-			}]
-			x: -1.5d
-			y: 9.0d
+			x: -3.5d
+			y: 3.5d
 		}
 		{
 			id: "15C5E9E35FE15216"
@@ -218,8 +208,8 @@
 				item: "createaddition:electric_motor"
 				type: "item"
 			}]
-			x: -2.5d
-			y: 3.0d
+			x: -1.5d
+			y: 4.0d
 		}
 		{
 			id: "7F8AD9C6FA748533"
@@ -228,8 +218,8 @@
 				item: "theurgy:sal_ammoniac_crystal"
 				type: "item"
 			}]
-			x: -2.5d
-			y: 15.0d
+			x: -3.5d
+			y: 17.5d
 		}
 		{
 			id: "33B6514C81B75A2F"
@@ -239,27 +229,7 @@
 				type: "item"
 			}]
 			x: -1.5d
-			y: 4.5d
-		}
-		{
-			id: "33A6EC9523048FAA"
-			tasks: [{
-				id: "4A1C67399385D1A7"
-				item: "ae2:blank_pattern"
-				type: "item"
-			}]
-			x: -1.5d
-			y: 12.0d
-		}
-		{
-			id: "444132788B8D1708"
-			tasks: [{
-				id: "459EDE7DDC35BAD1"
-				item: "ad_astra:mars_globe"
-				type: "item"
-			}]
-			x: -1.5d
-			y: 7.5d
+			y: 6.5d
 		}
 		{
 			id: "14D90475F5A16B55"
@@ -268,37 +238,7 @@
 				item: "industrialforegoing:machine_frame_simple"
 				type: "item"
 			}]
-			x: -0.5d
-			y: 12.0d
-		}
-		{
-			id: "7B3B8EB919E8D482"
-			tasks: [{
-				id: "5D8798BC0F990D9D"
-				item: "ad_astra:mercury_globe"
-				type: "item"
-			}]
-			x: -2.5d
-			y: 10.5d
-		}
-		{
-			id: "2F43CC4A7CED3625"
-			tasks: [{
-				id: "3FFBF5280E1DAC17"
-				item: "ad_astra:venus_globe"
-				type: "item"
-			}]
-			x: -0.5d
-			y: 10.5d
-		}
-		{
-			id: "77AC5E0A9C94720D"
-			tasks: [{
-				id: "0EC658E13295B715"
-				item: "ad_astra:glacio_globe"
-				type: "item"
-			}]
-			x: -1.5d
+			x: 0.5d
 			y: 13.5d
 		}
 		{
@@ -309,7 +249,51 @@
 				type: "item"
 			}]
 			x: -1.5d
-			y: 0.0d
+			y: 2.0d
+		}
+		{
+			id: "5BA6220902F12F9A"
+			tasks: [{
+				id: "012F986165232A5B"
+				item: {
+					Count: 1
+					id: "hexerei:witch_hazel_broom"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -3.5d
+			y: 13.5d
+		}
+		{
+			id: "35C15FC2764D996E"
+			tasks: [{
+				id: "3E2DCDD9862CC09A"
+				item: "ad_astra:moon_stone"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 8.0d
+		}
+		{
+			id: "53724E43A8A51318"
+			tasks: [{
+				id: "3AD5A19958F44F5A"
+				item: "ad_astra:desh_ingot"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 8.0d
+		}
+		{
+			id: "7A85CB082A40B71F"
+			tasks: [{
+				id: "4E3E1D0A4C36AAAE"
+				item: "ad_astra:mars_globe"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 11.5d
 		}
 	]
 	title: "Progression Overview"
